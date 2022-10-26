@@ -4,7 +4,7 @@ This is a straightforward HTML and CSS music player project I created. My projec
 
 
 ## Demo
-<img align="center" alt="Coding" width="600" src="https://user-images.githubusercontent.com/92624624/197520532-c8c9a4a9-07f5-4f36-818f-2b4f8eca6fae.gif">
+<img align="center" alt="Coding" width="600" src="
 
 
 ## Live link 
