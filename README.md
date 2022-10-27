@@ -8,3 +8,4 @@ This is a straightforward HTML and CSS music player project I created. My projec
 
 
 ## Live link 
+<a href="https://shah-pasha.github.io/my-project-1/" target="__blank">Music-Player-App</a>
